@@ -20,6 +20,10 @@ Branch (`master/main/dev`) is optional.
 -->
 
 ## Changelog
+### 2.1.7 (2023-08-14)
+* (mcm57) Update index.js - fix typo in error message (packet.json)
+* (mcm57) Update index.js - renumber E504/1 to 519 - fixes #112
+
 ### 2.1.6 (2022-12-08)
 * (bluefox) added better error logging
 
@@ -41,7 +45,7 @@ Branch (`master/main/dev`) is optional.
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2014-2022 Bluefox <dogafox@gmail.com>
+Copyright (c) 2014-2022 Denis Haev <dogafox@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
